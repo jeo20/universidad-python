@@ -7,6 +7,8 @@ Fundamentos de Python con PyCharm:
         memoria heap es adonde se almacena el objeto con el valor de la variable
         memoria stack es donde se almacena la referencia a la variable
         la variable almacena la referencia de un objeto que se encuentra en la memoria heap
+        nombre variables snake case
+        constantes en mayusculas y snake case
 
     Manejo de Operadores en Python
 
@@ -453,3 +455,6 @@ Tips and Tricks en Python - Parte 4:
     Instalación de Insomnia REST Client
 
     Peticiones POST y Flask
+
+
+    
