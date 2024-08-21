@@ -9,6 +9,11 @@ Fundamentos de Python con PyCharm:
         la variable almacena la referencia de un objeto que se encuentra en la memoria heap
         nombre variables snake case
         constantes en mayusculas y snake case
+    
+    Cadenas        
+        Cadenas
+        indices
+        inmutabilidad
 
     Manejo de Operadores en Python
 
